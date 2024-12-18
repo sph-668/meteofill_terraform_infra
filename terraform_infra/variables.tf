@@ -1,6 +1,6 @@
 variable "instance_name" {
   description = "Name of the instance"
-  default     = "tsareva_infra_terraaform"
+  default     = "tsareva_infra_terraform"
 }
 
 variable "key_name" {
